@@ -29,8 +29,7 @@ O estado Vigente não significa que o documento seja definitivo.
 
 ## Direção do projeto
 
-A direção do produto está em redefinição.
-O planejamento anterior não é adotado como especificação vigente.
+A proposta, a estrutura e as tecnologias do projeto seguem o planejamento de referência. A sequência de desenvolvimento será reorganizada para tornar o trabalho mais simples e gradual.
 
 ## Orientação de preenchimento
 
